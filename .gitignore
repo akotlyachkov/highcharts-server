@@ -1,0 +1,6 @@
+progress/**/*
+!test/example.png
+!test/postman_collection.json
+node_modules
+.idea
+npm-debug.log

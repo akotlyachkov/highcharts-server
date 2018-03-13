@@ -1,0 +1,23 @@
+{
+  "name": "highcharts-export-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "highcharts": "^6.0.6",
+    "json-beautify": "^1.0.1",
+    "merge-deep": "^3.0.1",
+    "node-uuid": "^1.4.8",
+    "promise-queue": "^2.2.5",
+    "puppeteer": "^1.1.1"
+  }
+}

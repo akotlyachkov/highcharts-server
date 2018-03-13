@@ -1,0 +1,13 @@
+.title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.json-view{
+    max-height: 350px;
+    overflow: auto;
+    width: 700px;
+}
+.hc{
+    margin-bottom: 20px;
+    border-bottom: 2px solid gray;
+}

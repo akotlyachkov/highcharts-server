@@ -1,0 +1,7 @@
+{
+    "port": 3005,
+    "concurrent": 0,
+    "maxQueue": 0,
+    "template": "http://localhost:3005/placeholder",
+    "headless": false
+}
